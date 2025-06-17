@@ -1,0 +1,12 @@
+#rojo {
+    color: red;
+}
+#azul{color: blue;} 
+#verde{color: green;} 
+#amarillo{color: yellow;} 
+#naranja{color: orangered;} 
+#violeta{color: violet;} 
+#gris{color: gray;}
+body{
+    background-color: rebeccapurple;
+}
